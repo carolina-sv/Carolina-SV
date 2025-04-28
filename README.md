@@ -2,7 +2,7 @@
 
 **`Estagiária de Desenvolvimento FullStack`**
 
-Me chamo Carolina Silva Viana, tenho 25 anos e sou natural de Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e me formando em Gestão de Tecnologia da Informação pela UNESA.
+Me chamo Carolina, tenho 25 anos e sou natural de Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e me formando em Gestão de Tecnologia da Informação pela UNESA.
 
 ### 🤖 Linguagens e Tecnologias
 
