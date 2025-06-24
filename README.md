@@ -2,7 +2,7 @@
 
 **`Estagiária de Desenvolvimento FullStack`**
 
-Me chamo Carolina, tenho 25 anos e sou natural de Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e me formando em Gestão de Tecnologia da Informação pela UNESA.
+Graduada em Gestão de Tecnologia da Informação e cursando Análise e Desenvolvimento de Sistemas, desenvolvedora C# e PHP.
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -30,7 +30,6 @@ Me chamo Carolina, tenho 25 anos e sou natural de Minas Gerais. Atualmente, esto
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
 <img 
     align="left" 
     alt="React"
@@ -39,7 +38,6 @@ Me chamo Carolina, tenho 25 anos e sou natural de Minas Gerais. Atualmente, esto
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Bootstrap"
@@ -58,20 +56,19 @@ Me chamo Carolina, tenho 25 anos e sou natural de Minas Gerais. Atualmente, esto
 />
 <img 
     align="left" 
-    alt="Laravel" 
-    title="Laravel"
+    alt="CSharp" 
+    title="C#" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
 />
-
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt=".NET" 
+    title=".NET" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" 
 />
 
 <br/>
@@ -83,5 +80,3 @@ Me chamo Carolina, tenho 25 anos e sou natural de Minas Gerais. Atualmente, esto
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolina-sv&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
-</p>
