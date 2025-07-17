@@ -2,7 +2,7 @@
 
 **`Estagiária de Desenvolvimento FullStack`**
 
-Graduada em Gestão de Tecnologia da Informação e cursando Análise e Desenvolvimento de Sistemas, desenvolvedora C# e PHP.
+Pós graduanda em Inteligencia Artificial e Machine Learning e desenvolvedora C# e PHP :) 
 
 ### 🤖 Linguagens e Tecnologias
 
