@@ -2,7 +2,6 @@
 
 **`Estagiária de Desenvolvimento FullStack`**
 
-Pós graduanda em Inteligencia Artificial e Machine Learning e desenvolvedora jr C# :) 
 
 ### 🤖 Linguagens e Tecnologias
 
