@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Carolina Viana  
 
-Sou desenvolvedora em formação com foco em Desenvolvimento Web, tenho como principais linguagens Js e C#.  
+Desenvolvedora em formação com foco em Desenvolvimento Web, tenho como principais linguagens Js e C#.  
 Atualmente trabalho como estagiária, aprendendo na prática e aprimorando minhas habilidades em projetos reais.  
 
 ---
