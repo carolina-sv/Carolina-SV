@@ -1,10 +1,5 @@
 # 👩🏻‍💻 Carolina Viana  
 
-**Estagiária de Desenvolvimento FullStack**  
-
----
-
-## 🌟 Sobre mim  
 Sou desenvolvedora em formação com foco em FullStack, tenho como principais linguagens Js e C#.  
 Atualmente trabalho como **estagiária**, aprendendo na prática e aprimorando minhas habilidades em projetos reais.  
 
