@@ -50,7 +50,7 @@ Currently, I'm working as an intern, gaining hands-on experience and improving m
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=carolina-sv&theme=tokyo_night&hide_border=true" alt="Carolina's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=carolina-sv&theme=tokyo_night&hide_border=true" alt="Activity Graph" />
 </p>
 
 <p align="center">
