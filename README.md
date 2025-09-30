@@ -49,9 +49,4 @@ Currently, I'm working as an intern, gaining hands-on experience and improving m
   <img src="https://github-profile-trophy.vercel.app/?username=carolina-sv&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Carolina's GitHub Trophies" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=carolina-sv&theme=tokyo_night&hide_border=true" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="
+![Snake animation](https://raw.githubusercontent.com/carolina-sv/main/dist/github-contribution-grid-snake-dark.svg)
