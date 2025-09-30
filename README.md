@@ -49,4 +49,4 @@ Currently, I'm working as an intern, gaining hands-on experience and improving m
   <img src="https://github-profile-trophy.vercel.app/?username=carolina-sv&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Carolina's GitHub Trophies" />
 </p>
 
-![Snake animation](https://raw.githubusercontent.com/carolina-sv/main/dist/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/carolina-sv/Carolina-Sv/main/dist/github-contribution-grid-snake-dark.svg)
