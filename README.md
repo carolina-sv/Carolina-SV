@@ -36,16 +36,16 @@ Currently, I'm working as an intern, gaining hands-on experience and improving m
 
 ### 📊 My GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolina-sv&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Carolina's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolina-sv&theme=tokyonight&layout=compact&custom_title=Top%20Techs&langs_count=8&hide_border=true" alt="Carolina's Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carolina-sv&theme=tokyonight&hide_border=true" alt="Carolina's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=carolina-sv&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Carolina's GitHub Trophies" />
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=7&theme=dracula"/>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/streak-stats?user=SEU_USERNAME&theme=dracula" />
+    </td>
+  </tr>
+</table>
 
