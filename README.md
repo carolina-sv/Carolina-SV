@@ -21,7 +21,6 @@ Currently, I'm working as an intern, gaining hands-on experience and improving m
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP" width="40" style="margin: 0 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="40" style="margin: 0 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" title=".NET" width="40" style="margin: 0 10px;" />
-</p>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="40" style="margin: 0 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" alt="CodeIgniter" title="CodeIgniter" width="40" style="margin: 0 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" title="Jenkins" width="40" style="margin: 0 10px;" />
@@ -36,8 +35,6 @@ Currently, I'm working as an intern, gaining hands-on experience and improving m
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolina-sv&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Carolina's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolina-sv&theme=tokyonight&layout=compact&custom_title=Top%20Techs&langs_count=8&hide_border=true" alt="Carolina's Top Languages" />
-</p>
 
 ---
 <p align="center">
