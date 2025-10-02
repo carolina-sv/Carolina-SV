@@ -4,8 +4,7 @@ I'm a developer in training with a focus on Web Development and Automation. My m
 Currently, I'm working as an intern, gaining hands-on experience and improving my skills on real-world projects.
 
 ---
-
-## 🤖 Linguagens e Tecnologias  
+ 
 ### 📫 Connect with me
 
 <p align="left">
@@ -19,7 +18,6 @@ Currently, I'm working as an intern, gaining hands-on experience and improving m
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" title="HTML" width="40" style="margin: 0 10px;" />
-@@ -15,15 +24,34 @@ Atualmente trabalho como estagiária, aprendendo na prática e aprimorando minha
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP" width="40" style="margin: 0 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="40" style="margin: 0 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" title=".NET" width="40" style="margin: 0 10px;" />
