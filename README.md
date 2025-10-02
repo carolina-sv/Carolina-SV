@@ -36,16 +36,11 @@ Currently, I'm working as an intern, gaining hands-on experience and improving m
 
 ### 📊 My GitHub Stats
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=carolina-sv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-      <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolina&layout=compact&langs_count=7&theme=dracula"/>
-    </td>
-    
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/streak-stats?user=carolina-sv&theme=dracula" />
-    </td>
-  </tr>
-</table>
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/streak-stats?user=carolina-sv&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</p>
+
+---
