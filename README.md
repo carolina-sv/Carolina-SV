@@ -39,12 +39,12 @@ Currently, I'm working as an intern, gaining hands-on experience and improving m
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=carolina-sv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
       <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=7&theme=dracula"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolina-sv&layout=compact&langs_count=7&theme=dracula"/>
     </td>
     <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/streak-stats?user=SEU_USERNAME&theme=dracula" />
+      <img src="https://github-readme-stats.vercel.app/api/streak-stats?user=carolina-sv&theme=dracula" />
     </td>
   </tr>
 </table>
