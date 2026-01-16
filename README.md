@@ -1,10 +1,5 @@
 # Olá 👋
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Carolina-SV&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carolina-SV&layout=compact&langs_count=7&theme=dark" alt="Top Languages" height="180em" />
-</div>
-
 ### 👩‍💻 About
 Programadora focada em transformar café em código e processos manuais em automações eficientes. Minha jornada envolve explorar o ecossistema Web e garantir a qualidade através de testes automatizados.
 
@@ -29,13 +24,7 @@ Programadora focada em transformar café em código e processos manuais em autom
 ### 🏆 Conquistas e Atividades
 Aqui estão algumas métricas que mostram meu engajamento no GitHub:
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Carolina-SV&theme=radical&no-bg=true&column=7)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carolina-SV&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
 
 ### 📫 Vamos nos conectar?
 <div align="left">
