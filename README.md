@@ -21,10 +21,17 @@ Programadora focada em transformar café em código e processos manuais em autom
 
 ---
 
-### 🏆 Conquistas Gerais)
+### 🏆 Estatísticas e Conquistas
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Carolina-SV&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" height="195px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carolina-SV&layout=compact&langs_count=7&theme=dark&hide_border=true" alt="Linguagens mais usadas" height="195px" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carolina-SV&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carolina-SV&layout=compact&theme=dracula&langs_count=6" />
+</div>
+
+<br />
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Carolina-SV&theme=dracula&area=true&hide_border=true" />
 </div>
 
 ---
