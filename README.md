@@ -1,9 +1,7 @@
 # Olá 👋
 
 ### 👩‍💻 About
-Programadora focada em transformar café em código e processos manuais em automações eficientes. Minha jornada envolve explorar o ecossistema Web e garantir a qualidade através de testes automatizados.
-
- 🔭 Atualmente trabalhando com: **JavaScript** e **C#**.
+Atualmente trabalhando com: **JavaScript** e **C#* e **Métodologias Agile**.
 
 ---
 
