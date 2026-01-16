@@ -1,31 +1,48 @@
-# 👩🏻‍💻 Carolina Viana  
-  
-I'm a developer in training with a focus on Web Development and Automation. My main languages are JavaScript and C#.
-Currently, I'm working as an intern, gaining hands-on experience and improving my skills on real-world projects.
+# Olá 👋
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Carolina-SV&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carolina-SV&layout=compact&langs_count=7&theme=dark" alt="Top Languages" height="180em" />
+</div>
+
+### 👩‍💻 About
+Programadora focada em transformar café em código e processos manuais em automações eficientes. Minha jornada envolve explorar o ecossistema Web e garantir a qualidade através de testes automatizados.
+
+- 🔭 Atualmente trabalhando com: **JavaScript** e **C#**.
 
 ---
 
-### 🚀 Tech Stack
+### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" title="HTML" width="40" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP" width="40" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="40" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" title=".NET" width="40" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" alt="CodeIgniter" title="CodeIgniter" width="40" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" title="Jenkins" width="40" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" title="Selenium" width="40" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40" style="margin: 0 10px;" />
-</p>
+<div align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+</div>
 
 ---
 
-## 📊 GitHub Stats  
+### 🏆 Conquistas e Atividades
+Aqui estão algumas métricas que mostram meu engajamento no GitHub:
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=carolina-sv&theme=tokyo_night&hide_border=true" alt="Carolina's Activity Graph" />
-</p>
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Carolina-SV&theme=radical&no-bg=true&column=7)
 
-<p align="center">
-  <img src="
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carolina-SV&theme=dark&hide_border=true" alt="GitHub Streak" />
+</div>
 
+---
+
+### 📫 Vamos nos conectar?
+<div align="left">
+  <a href="https://linkedin.com/in/SEU-USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:seu-email@exemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
