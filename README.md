@@ -1,7 +1,7 @@
 # Olá 👋
 
 ### 👩‍💻 About
-Atualmente trabalhando com: **JavaScript** e **C#* e **Métodologias Agile**.
+Atualmente trabalhando com: **JavaScript** e **Métodologias Agile**.
 
 ---
 
