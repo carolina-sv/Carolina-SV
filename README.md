@@ -26,19 +26,12 @@
 ### 📊 Estatísticas e Conquistas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolina-sv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolina-sv&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Carolina-SV&theme=dracula&area=true&hide_border=true" />
 </div>
 
 ---
 
-### 🐍 Snake Contribution Graph
 
-<div align="center">
-  <img src="https://github.com/carolina-sv/carolina-sv/blob/output/github-contribution-grid-snake.svg" alt="snake" />
-</div>
-
----
 
 ### 📫 Vamos nos conectar?
 
