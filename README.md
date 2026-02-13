@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&width=435&lines=Desenvolvedora+JavaScript;Métodologias+Agile;Automação+com+IA+e+n8n" alt="Typing SVG" />
 </p>
----
 
 ### 🚀 Sobre mim
 
@@ -29,8 +28,6 @@
 </div>
 
 ---
-
-
 
 ### 📫 Vamos nos conectar?
 
