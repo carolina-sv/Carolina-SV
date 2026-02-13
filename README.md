@@ -30,7 +30,7 @@ Atualmente trabalhando com: **JavaScript** e **Métodologias Agile**.
 
 ### 📫 Vamos nos conectar?
 <div align="left">
-  <a href="https://linkedin.com/in/847305218/](https://www.linkedin.com/in/carolina-viana-847305218/" target="_blank">
+  <a href="https://www.linkedin.com/in/carolina-viana-847305218/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:carollinasilva057@gmail.com">
