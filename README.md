@@ -1,39 +1,52 @@
-# Olá 👋
+# Olá, eu sou a Carolina! 👋
 
-### 👩‍💻 About
-Atualmente trabalhando com: **JavaScript** e **Métodologias Agile**.
-
----
-
-### 🛠️ Tech Stack
-
-<div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&width=435&lines=Desenvolvedora+JavaScript;Entusiasta+de+Agile;Apaixonada+por+Automação" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🏆 Estatísticas e Conquistas
+### 🚀 Sobre mim
+
+- ⚡ Atualmente focada em **JavaScript** e refinando processos com **Metodologias Ágeis**.
+- 🛠️ Experiência com testes automatizados usando **Selenium**.
+- ☁️ Brincando com **Docker** para subir ambientes em segundos.
+- 🎯 Objetivo: Criar aplicações robustas e código limpo.
+
+---
+
+### 🛠 Tech Stack
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Carolina-SV&theme=dracula&area=true&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=js,cs,dotnet,php,html,docker,selenium,git,vscode,postman" />
 </div>
 
 ---
 
+### 📊 Estatísticas e Conquistas
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolina-sv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolina-sv&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+---
+
+### 🐍 Snake Contribution Graph
+
+<div align="center">
+  <img src="https://github.com/carolina-sv/carolina-sv/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+</div>
+
+---
 
 ### 📫 Vamos nos conectar?
-<div align="left">
+
+<div align="center">
   <a href="https://www.linkedin.com/in/carolina-viana-847305218/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:carollinasilva057@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:carollinasilva057@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
