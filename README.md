@@ -8,31 +8,31 @@
 
 ---
 
-### Resumo Profissional
+## Resumo Profissional
 
 Desenvolvedora Full Stack Graduada em Gestão de Tecnologia da Informação, Análise e Desenvolvimento de Sistemas e Especialista em **IA e Machine Learning** atuo nas linguagens **JavaScript e C# com seus respectivos frameworks (React, Angular e .NET).
+
 ---
 
-###️ Tech Stack
+## Tech Stack
 
-<details>
-  <summary><b>Linguagens & Frameworks</b></summary>
+
+  <b>Linguagens & Frameworks</b>
   <br />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-</details>
+  <br />
 
-<details>
-  <summary><b>Bancos de Dados & Ferramentas</b></summary>
+ <b>Bancos de Dados & Ferramentas</b>
   <br />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-</details>
+
 
 ---
 
