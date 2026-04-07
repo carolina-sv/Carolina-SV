@@ -8,7 +8,8 @@
 
 ---
 
-Desenvolvedora Full Stack Graduada em Gestão de Tecnologia da Informação, Análise e Desenvolvimento de Sistemas e Especialista em **IA e Machine Learning** atuo nas linguagens **JavaScript e C# com seus respectivos frameworks (React, Angular e .NET).
+Desenvolvedora Full Stack Graduada em Gestão de Tecnologia da Informação, Análise e Desenvolvimento de Sistemas e Especialista em IA e Machine Learning.
+Atuo nas linguagens JavaScript e C# com seus respectivos frameworks (React, Angular e .NET).
 
 ---
 
