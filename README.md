@@ -12,9 +12,6 @@ Desenvolvedora Full Stack Graduada em Gestão de Tecnologia da Informação, An�
 
 ---
 
-## Tech Stack
-
-
   <b>Linguagens & Frameworks</b>
   <br />
   <br />
